@@ -12,17 +12,12 @@ The expected best classification rates are witnessed from the proposed model wit
 Please cite the following work if you want to use LREC.
 
 @misc{ferdaus2021significance,
-
-  title = {Significance of Activation Functions in Developing an Online Classifier for Semiconductor Defect Detection},
-  author = {Ferdaus, Md Meftahul and Bangjian, Zhou and Yoon, Ji Wei and Low, Kain Lu and Pan, Jieming, Ghosh and Joydeep, Wu and Min, Li and Xiaoli, Thean and Aaron Voon-Yew, Senthilnath and J.},
-  
-  year = {2021},
-  
-  eprint={},
-  
-  archivePrefix={arXiv},
-  
-  primaryClass={Knowledge-Based Systems}
+title = {Significance of Activation Functions in Developing an Online Classifier for Semiconductor Defect Detection},
+author = {Ferdaus, Md Meftahul and Bangjian, Zhou and Yoon, Ji Wei and Low, Kain Lu and Pan, Jieming, Ghosh and Joydeep, Wu and Min, Li and Xiaoli, Thean and Aaron Voon-Yew, Senthilnath and J.},
+year = {2021},
+eprint={},
+archivePrefix={arXiv},
+primaryClass={Knowledge-Based Systems}
 }
 
 
