@@ -1,5 +1,5 @@
 # Leaky ReLU-based Evolving Classifier (LREC)
-Activation functions (AFs) in deep neural networks (DNNs) and membership functions (MFs) in neuro-fuzzy systems (NFSs) play an important role in 
+In this work, a neuro-fuzzy system-based evolving classifier is developed where Leaky ReLU is incorporated as a membership function. From literature, it is established that activation functions (AFs) in deep neural networks (DNNs) and membership functions (MFs) in neuro-fuzzy systems (NFSs) play an important role in 
 the performance of those ML models. This work focuses on analysing the effects of various AFs/MFs in our developed online ML models while detecting defects in 
 real-world nano-scaled semiconductor devices, where significant training samples are not available. From various semiconductor datasets having fewer samples, 
 it has been observed that the proposed evolving neuro-fuzzy system (ENFS) with Leaky-ReLU MF performs better (improvement in the range of 1.9% to 30.8%
