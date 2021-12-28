@@ -7,7 +7,7 @@ considering overall classification accuracy) than the other DNN or ENFS-based on
 evaluated for handling large data streams problems and compared with some recently developed baselines under the prequential test-then-train protocol. 
 The expected best classification rates are witnessed from the proposed model with an improvement in the range of 0.8% to 39.7%.
 
-How to Cite
+# How to Cite
 Please cite the following work if you want to use LREC.
 
 @misc{ferdaus2021significance ,
@@ -19,7 +19,7 @@ Please cite the following work if you want to use LREC.
   primaryClass={Knowledge-Based Systems}
 }
 
-LREC_Matlab
+# LREC_Matlab
 
 Significance of Activation Functions in Developing an Online Classifier for Semiconductor Defect Detection (accpeted for publication in Knowledge-Based Systems)
 
@@ -33,7 +33,7 @@ Significance of Activation Functions in Developing an Online Classifier for Semi
    d) weather_LREC_pre.m
    
    
-   Datasets source: 
+# Datasets source: 
 For electricity, hyperplane, sea, weather: https://github.com/ContinualAL/DEVFNN/tree/master/dataset
 For SECOM: https://archive.ics.uci.edu/ml/datasets/SECOM  
 
